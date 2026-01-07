@@ -29,6 +29,6 @@
     "allowSyntheticDefaultImports": true
   },
   "include": [
-    "assets/**/*.ts"
+    "src/**/*.ts"
   ]
 }
